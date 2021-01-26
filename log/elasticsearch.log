@@ -1,0 +1,13 @@
+2021-01-26 15:39:25.616 INFO  [main] c.d.c.ElasticSearchApplication:Starting ElasticSearchApplication on W26-260477 with PID 17656 (E:\project-duplication\elasticsearch\target\classes started by 260477 in E:\project-duplication\elasticsearch)
+2021-01-26 15:39:25.653 INFO  [main] c.d.c.ElasticSearchApplication:The following profiles are active: local
+2021-01-26 15:39:27.166 INFO  [main] o.s.b.w.e.t.TomcatWebServer:Tomcat initialized with port(s): 8088 (http)
+2021-01-26 15:39:27.186 INFO  [main] o.a.c.h.Http11NioProtocol:Initializing ProtocolHandler ["http-nio-8088"]
+2021-01-26 15:39:27.199 INFO  [main] o.a.c.c.StandardService:Starting service [Tomcat]
+2021-01-26 15:39:27.200 INFO  [main] o.a.c.c.StandardEngine:Starting Servlet engine: [Apache Tomcat/9.0.37]
+2021-01-26 15:39:27.529 INFO  [main] o.a.c.c.C.[.[.[/]:Initializing Spring embedded WebApplicationContext
+2021-01-26 15:39:27.529 INFO  [main] o.s.w.c.ContextLoader:Root WebApplicationContext: initialization completed in 1807 ms
+2021-01-26 15:39:28.490 INFO  [main] o.s.s.c.ThreadPoolTaskExecutor:Initializing ExecutorService 'applicationTaskExecutor'
+2021-01-26 15:39:28.715 INFO  [main] o.a.c.h.Http11NioProtocol:Starting ProtocolHandler ["http-nio-8088"]
+2021-01-26 15:39:28.740 INFO  [main] o.s.b.w.e.t.TomcatWebServer:Tomcat started on port(s): 8088 (http) with context path ''
+2021-01-26 15:39:28.744 INFO  [main] c.d.c.ElasticSearchApplication:Started ElasticSearchApplication in 3.774 seconds (JVM running for 5.028)
+2021-01-26 15:41:40.016 INFO  [Thread-3] o.s.s.c.ThreadPoolTaskExecutor:Shutting down ExecutorService 'applicationTaskExecutor'
